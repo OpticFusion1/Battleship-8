@@ -1,4 +1,4 @@
-This program is a fun java based single player battleship game with a random guessing AI.
+This program is a fun text based single player battleship game with a random guessing AI, written in Java.
 
 The program creates two boards, the size of which is determined by the player.
 One board is for the AI and the other is for the human player.
